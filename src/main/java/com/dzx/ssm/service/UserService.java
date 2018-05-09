@@ -1,6 +1,6 @@
-package com.heitian.ssm.service;
+package com.dzx.ssm.service;
 
-import com.heitian.ssm.model.User;
+import com.dzx.ssm.model.User;
 
 import java.util.List;
 

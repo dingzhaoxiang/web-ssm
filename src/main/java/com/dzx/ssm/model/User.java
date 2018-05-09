@@ -1,4 +1,4 @@
-package com.heitian.ssm.model;
+package com.dzx.ssm.model;
 
 import java.util.Date;
 

@@ -1,6 +1,6 @@
-package com.heitian.ssm.dao;
+package com.dzx.ssm.dao;
 
-import com.heitian.ssm.model.User;
+import com.dzx.ssm.model.User;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;
 

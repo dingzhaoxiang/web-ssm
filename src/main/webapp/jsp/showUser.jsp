@@ -8,6 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%
+    String path = request.getContextPath();
+    String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
+%>
 <html>
 <head>
     <title>用户信息列表</title>
@@ -18,5 +22,7 @@
             姓名：${user.userName} &nbsp;&nbsp;手机号：${user.userPhone} &nbsp;&nbsp;邮箱：${user.userEmail} &nbsp;&nbsp;<br>
         </c:forEach>
     </c:if>
+    <p>test5</p>
+    <a href="<%=request.getContextPath() %>/jsp/login.jsp" name="登录界面">跳到login</a>
 </body>
 </html>
