@@ -18,7 +18,7 @@ import java.util.List;
 public class GoodsController {
     @Resource
     private GoodsService goodsService;
-    @RequestMapping("/showGoods")
+    @RequestMapping("showGoods.do")
     public String showGoods(HttpServletRequest request, Model model){
         List<Goods> goodsList = goodsService.getAllGoods();
         model.addAttribute("goodsList",goodsList);
