@@ -7,15 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce725ee-e2c1-442b-b2d5-4991716cd977" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/HttpRequestUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1131">
+            <state relative-caret-position="1245">
               <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
             </state>
           </provider>
@@ -117,7 +109,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-342">
@@ -335,29 +327,6 @@
               <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -719,6 +688,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -841,7 +813,7 @@
       <workItem from="1526092276287" duration="583000" />
       <workItem from="1526263978490" duration="8266000" />
       <workItem from="1526276280366" duration="14477000" />
-      <workItem from="1526345767257" duration="9631000" />
+      <workItem from="1526345767257" duration="11241000" />
     </task>
     <task id="LOCAL-00001" summary="20180509">
       <created>1525840224852</created>
@@ -850,7 +822,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525840224852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20180515">
+      <created>1526362788374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526362788374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -871,7 +850,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275521000" />
+    <option name="totallyTimeSpent" value="277131000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -905,11 +884,11 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.328084" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.3464567" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="3" visible="true" weight="0.4816273" />
       <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.39632547" />
       <window_info anchor="bottom" id="Spring" order="4" weight="0.42125985" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49563318" weight="0.328084" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" weight="0.27128822" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" visible="true" weight="0.27128822" />
       <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info id="Web" order="4" sideWeight="0.5181269" side_tool="true" weight="0.31495634" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1001,7 +980,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20180509" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180509" />
+    <MESSAGE value="20180515" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180515" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1287,13 +1267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123">
-          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -1332,13 +1305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -1354,6 +1320,20 @@
             <element signature="imports" expanded="true" />
             <element signature="e#818#833#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
         </state>
       </provider>
     </entry>
