@@ -47,6 +47,8 @@
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.4" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4" />
           <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: com.google.zxing:core:2.2" />
+          <element id="library" level="project" name="Maven: com.google.zxing:javase:2.2" />
         </element>
       </element>
       <element id="directory" name="META-INF">

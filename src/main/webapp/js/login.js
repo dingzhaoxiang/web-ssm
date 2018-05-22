@@ -1,6 +1,11 @@
 $(function(){
 	console.log("test");
 	//alert("tess");
+    $(".QR_Login").click(function(){
+        $(".box").hide();
+        dispayQrCode();
+    });
+
 })
 
 function recordInput (value) {
@@ -24,3 +29,11 @@ function recordInput (value) {
             }
         }});
 }
+
+function dispayQrCode() {
+    //$('.qrCode').attr("src",disPlayImgUrl+"?ticket="+qrTicket);
+    $('.box').css('display','none')
+    $('body').shadow
+    $('.qrdiv').css('display','inline');
+}
+

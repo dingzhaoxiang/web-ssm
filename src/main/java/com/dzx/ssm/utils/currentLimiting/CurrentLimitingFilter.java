@@ -34,7 +34,7 @@ public class CurrentLimitingFilter implements Filter {
 		String ip = req.getRemoteAddr();
 	    if(!map.containsKey(ip)){
 	    	//一秒最多访问30次
-	    	map.put(ip, new CurrentLimiting(System.currentTimeMillis(), 1000,30));
+	    	map.put(ip, new CurrentLimiting(System.currentTimeMillis(), 1000,10));
 	    }
 	    else{
 	    	if(!map.get(ip).allow(System.currentTimeMillis())){	    		    		

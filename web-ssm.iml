@@ -70,5 +70,7 @@
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4" level="project" />
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:core:2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:javase:2.2" level="project" />
   </component>
 </module>
