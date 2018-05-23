@@ -6,22 +6,156 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce725ee-e2c1-442b-b2d5-4991716cd977" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/web_ssm_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/web_ssm_war_exploded.xml" afterDir="false" />
+    <list default="true" id="3ce725ee-e2c1-442b-b2d5-4991716cd977" name="Default" comment="20180525">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GetBeanTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/GoodsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/GoodsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/FileWriteUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/HttpRequestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimiting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$clearIpOnceADay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/ScannForUselessIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/ArrayList/TestArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Arrays/TestOfasList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$AscAgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$DescAgeComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Enum/MethodEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashSet/HashSet1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/String/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/StringBuffer/TempTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/finally和return/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/this测试/Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SubClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SuperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/Main06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题07用两个栈实现队列/Main07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题08旋转数组的最小数字/Main8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题10数值二进制表示中1的个数/Main10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题21包含min函数的栈/Main21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/Main23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题24二叉搜索树的后序遍历序列/Main24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/Main26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题31连续子数组的最大和/Main31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题32从1到N中1出现的次数/Main32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题34丑数/Main34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题35第一个只出现一次的字符/Main35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题38数字在排序数组中出现的次数/Main38.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题40数组中只出现一次的数字/Main40.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题41和为S的两个数/Main41.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题44扑克牌的顺子/Main44.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题52构建乘积矩阵/Main52.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题54表示数值的字符串/Main54表示数值的字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/Main61.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/Main63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/冒泡排序/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/堆排序/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/归并排序/MergeSortTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/MyQuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/ProducerConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/SynStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/今日头条/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第1题/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第2题/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/设计模式/双重校验锁/SingleTon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapping/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/properties/common_web_ssm.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/xmls/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/基础/Java基础/测试/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/基础/Java基础/测试/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-ssm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web-ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/common.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-core-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-databind-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/mysql-connector-java-5.1.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/slf4j-api-1.7.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/slf4j-log4j12-1.7.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-context-support-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-jdbc-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-oxm-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-test-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-tx-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,29 +184,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
+      <file leaf-file-name="GoodsService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/GoodsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1444">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="380">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="GoodsServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="83">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java">
+      <file leaf-file-name="GoodsMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="51" column="35" selection-start-line="51" selection-end-line="52" />
+            <state relative-caret-position="70">
+              <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,52 +227,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/Java基础/测试/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1064">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="t_user.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SQL/t_user.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="37" column="38" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web-ssm.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-ssm.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="260">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8680">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Goods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -146,7 +288,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>u</find>
       <find>user</find>
       <find>userma</find>
       <find>mysql</find>
@@ -176,6 +317,7 @@
       <find>generate</find>
       <find>generatorCo</find>
       <find>`</find>
+      <find>selectAll</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -187,8 +329,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jsp/showGoods.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/heitian/ssm/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/heitian/ssm/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
@@ -238,6 +378,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/SQL/t_user.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java" />
       </list>
     </option>
   </component>
@@ -297,8 +439,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="62" />
+    <option name="y" value="3" />
     <option name="width" value="1938" />
     <option name="height" value="1050" />
   </component>
@@ -358,15 +500,105 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dzx" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,7 +607,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../old/cas_debug" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -594,7 +826,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="LocalTomCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.77" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="LocalTomCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.14" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -704,8 +936,8 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.LocalTomCat" />
       <item itemvalue="JUnit.com.dzx.基础.测试 in web-ssm" />
+      <item itemvalue="Tomcat Server.LocalTomCat" />
       <item itemvalue="Application.TestService" />
       <item itemvalue="Application.SendMailUtil" />
       <item itemvalue="Application.XMLUtil" />
@@ -858,7 +1090,11 @@
       <workItem from="1526793787033" duration="10233000" />
       <workItem from="1526865967590" duration="5539000" />
       <workItem from="1526955903497" duration="121000" />
-      <workItem from="1526956183703" duration="5203000" />
+      <workItem from="1526956183703" duration="7137000" />
+      <workItem from="1527036994403" duration="2627000" />
+      <workItem from="1527063092429" duration="412000" />
+      <workItem from="1527064629984" duration="648000" />
+      <workItem from="1527065713261" duration="1782000" />
     </task>
     <task id="LOCAL-00001" summary="20180509">
       <created>1525840224852</created>
@@ -888,7 +1124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526365580031</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20180522">
+      <created>1526989814578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526989814578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -909,7 +1152,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319391000" />
+    <option name="totallyTimeSpent" value="326794000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -921,45 +1164,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5021834" side_tool="true" weight="0.36614174" />
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4978166" weight="0.32677165" />
       <window_info anchor="right" id="Maven Projects" order="0" weight="0.32914847" />
+      <window_info anchor="right" id="CDI" order="2" weight="0.32969433" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.328084" />
-      <window_info anchor="right" id="CDI" order="1" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info anchor="right" id="Database" order="3" weight="0.42085153" />
-      <window_info id="Structure" order="8" side_tool="true" weight="0.24945416" />
+      <window_info anchor="right" id="Database" order="1" weight="0.42085153" />
       <window_info anchor="right" id="JSF" order="4" weight="0.32969433" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.24945416" />
       <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" visible="true" weight="0.27690288" />
-      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.21100917" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" weight="0.496063" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.20997375" />
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" weight="0.36614174" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.328084" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.43307087" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.39632547" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" visible="true" weight="0.55643046" />
       <window_info anchor="bottom" id="Spring" order="4" weight="0.42125985" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49563318" weight="0.328084" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" weight="0.24617904" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" visible="true" weight="0.30676857" />
       <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info id="Web" order="4" sideWeight="0.5181269" side_tool="true" weight="0.31495634" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
-      <window_info anchor="right" id="Properties" order="2" />
+      <window_info id="Nl-Palette" order="6" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.5874674" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="16" sideWeight="0.49727073" weight="0.46850392" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-      <window_info id="Nl-Palette" order="6" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="right" id="Commander" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="8" />
     </layout>
@@ -968,9 +1212,10 @@
       <window_info id="Designer" order="1" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.5874674" />
       <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.39632547" />
       <window_info anchor="bottom" id="Spring" order="4" weight="0.42125985" />
       <window_info anchor="bottom" id="Database Console" order="16" sideWeight="0.49727073" weight="0.46850392" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.39632547" />
+      <window_info anchor="right" id="Commander" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -983,8 +1228,7 @@
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" visible="true" weight="0.36614174" />
       <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.21100917" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-      <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
-      <window_info anchor="right" id="Commander" order="10" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.328084" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.328084" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.43307087" />
@@ -995,7 +1239,7 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info id="Web" order="4" sideWeight="0.5181269" side_tool="true" weight="0.31495634" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.24945416" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="CDI" order="1" />
@@ -1007,6 +1251,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1040,7 +1294,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20180509" />
     <MESSAGE value="20180515" />
-    <option name="LAST_COMMIT_MESSAGE" value="20180515" />
+    <MESSAGE value="20180522" />
+    <option name="LAST_COMMIT_MESSAGE" value="20180522" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1060,66 +1315,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/算法/剑指Offer/面试题11数值的整数次方/Main11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/排序/堆排序/HealpSort2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/算法/排序/堆排序/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/xmls/book.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/currentLimiting/CurrentLimiting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/BeanUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/test/com/dzx/基础/测试/CalculatorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/test/com/dzx/ssm/service/impl/GoodsServiceImplTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/GoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/测试/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -1188,13 +1386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1862">
           <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1287,31 +1478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8550">
           <caret line="225" column="13" selection-start-line="225" selection-end-line="226" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1321,16 +1491,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/images/313681.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="51" column="35" selection-start-line="51" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1444">
@@ -1338,15 +1498,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/42.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state relative-caret-position="304">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/42.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SQL/t_user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/Java基础/测试/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1355,24 +1529,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/login.css">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1064">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="1330">
+          <caret line="51" column="35" selection-start-line="51" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/login.js">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="2660">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="76" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SQL/t_user.sql">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="37" column="38" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="38" />
+        <state relative-caret-position="798">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8680">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE.jar!/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3040">
+          <caret line="139" column="5" lean-forward="true" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1468,6 +1733,7 @@
     </states>
   </component>
   <component name="mavenExecuteGoalHistory">
-    <option value="" />
+    <option value="$PROJECT_DIR$" />
+    <option value="clean package" />
   </component>
 </project>
