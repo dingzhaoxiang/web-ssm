@@ -7,135 +7,381 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce725ee-e2c1-442b-b2d5-4991716cd977" name="Default" comment="20180525">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GetBeanTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/GoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/GoodsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/TestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/FileWriteUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/HttpRequestUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimiting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$clearIpOnceADay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/ScannForUselessIP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/ArrayList/TestArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Arrays/TestOfasList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$AscAgeComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$DescAgeComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Enum/MethodEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashSet/HashSet1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/String/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/StringBuffer/TempTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/finally和return/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/this测试/Leaf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SubClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SuperClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/Main06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题07用两个栈实现队列/Main07.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题08旋转数组的最小数字/Main8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题10数值二进制表示中1的个数/Main10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题21包含min函数的栈/Main21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/Main23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题24二叉搜索树的后序遍历序列/Main24.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/Main26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/RandomListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题31连续子数组的最大和/Main31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题32从1到N中1出现的次数/Main32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题34丑数/Main34.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题35第一个只出现一次的字符/Main35.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题38数字在排序数组中出现的次数/Main38.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题40数组中只出现一次的数字/Main40.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题41和为S的两个数/Main41.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题44扑克牌的顺子/Main44.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题52构建乘积矩阵/Main52.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题54表示数值的字符串/Main54表示数值的字符串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/Main61.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/Main63.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/冒泡排序/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/堆排序/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/归并排序/MergeSortTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/MyQuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/ProducerConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/SynStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/今日头条/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第1题/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第2题/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/dzx/基础/设计模式/双重校验锁/SingleTon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapping/GoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/properties/common_web_ssm.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/xmls/book.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GetBeanTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/GoodsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/dao/GoodsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/GoodsExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/GoodsExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/GoodsExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/GoodsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/GoodsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/GoodsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/BeanUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/FileReadUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/FileWriteUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/HttpRequestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/JsonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/PropertyUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/SendMailUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimiting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$clearIpOnceADay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/ssm/utils/currentLimiting/ScannForUselessIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/ArrayList/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/ArrayList/TestArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Arrays/TestOfSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Arrays/TestOfasList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$AscAgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$DescAgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Comparator和Comparable/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/Enum/MethodEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashMap/HashMapTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashMap/HashMapValueSort$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashMap/HashMapValueSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashMap/TreeMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/HashSet/HashSet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/String/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/String/TestOfCotains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/StringBuffer/TempTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/finally和return/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/this测试/Leaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/可变参数/Varable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/测试/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/Java基础/测试/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/数据结构/链表/链表环的问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/测试/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题05从尾到头打印链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题05从尾到头打印链表/Main05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/Main06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题07用两个栈实现队列/Main07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题08旋转数组的最小数字/Main8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题10数值二进制表示中1的个数/Main10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题11数值的整数次方/Main11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题13在O1时间删除链表节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题13在O1时间删除链表节点/Main13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题15链表的倒数第K个节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题15链表的倒数第K个节点/Main15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题16翻转链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题16翻转链表/Main16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题17合并两个排序的链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题17合并两个排序的链表/Main17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题18树的子结构/Main18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题18树的子结构/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题19二叉树的镜像/Main19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题19二叉树的镜像/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题21包含min函数的栈/Main21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题22栈的压入弹出序列/Main22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/Main23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题24二叉搜索树的后序遍历序列/Main24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题25二叉树中和为某一值的路径/Main25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题25二叉树中和为某一值的路径/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/Main26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/RandomListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题27二叉搜索树与双向链表/Main27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题27二叉搜索树与双向链表/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题29数组中出现次数超过一半的数字/Main29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题30最小的k个数/Main30$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题30最小的k个数/Main30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题31连续子数组的最大和/Main31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题32从1到N中1出现的次数/Main32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题34丑数/Main34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题35第一个只出现一次的字符/Main35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题37两个链表的第一个公共结点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题37两个链表的第一个公共结点/Main37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题38数字在排序数组中出现的次数/Main38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题39二叉树的深度/Main39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题39二叉树的深度/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题40数组中只出现一次的数字/Main40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题41和为S的两个数/Main41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题44扑克牌的顺子/Main44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题51数组中重复的数字/Main51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题52构建乘积矩阵/Main52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题53正则表达式匹配/Main53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题54表示数值的字符串/Main54表示数值的字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题55字符流中第一个不重复的字符/Main55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题57删除链表中重复的节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题57删除链表中重复的节点/Main57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题58二叉树的下一个节点/Main58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题58二叉树的下一个节点/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题59对称的二叉树/Main59.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题59对称的二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题60把二叉树打印成多行/Main60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题60把二叉树打印成多行/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/Main61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/Main63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/剑指Offer/面试题9斐波那契数列/Main9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/冒泡排序/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/堆排序/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/归并排序/MergeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/归并排序/MyMergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/MyQuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/排序/快速排序/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/ProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/生产者消费者模式/SynStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/今日头条/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/浪潮/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/浪潮/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第1题/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第2题/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/算法/笔试题/百度/第3题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dzx/基础/设计模式/双重校验锁/SingleTon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/GoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/properties/common_web_ssm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xmls/book.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/GetBeanTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/controller/GoodsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/dao/GoodsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/GoodsExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/GoodsExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/GoodsExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/GoodsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/service/GoodsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/service/impl/GoodsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/service/impl/TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/BeanUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/FileReadUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/FileWriteUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/HttpRequestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/JsonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/PropertyUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/SendMailUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/SendMailUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/XMLUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimiting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler$clearIpOnceADay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/MyMailHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/ssm/utils/currentLimiting/ScannForUselessIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/ArrayList/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/ArrayList/TestArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Arrays/TestOfSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Arrays/TestOfasList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$AscAgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$DescAgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/CompareComparatorAndComparableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Comparator和Comparable/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/Enum/MethodEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/HashMap/HashMapTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/HashMap/HashMapValueSort$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/HashMap/HashMapValueSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/HashMap/TreeMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/HashSet/HashSet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/String/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/String/TestOfCotains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/StringBuffer/TempTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/finally和return/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/this测试/Leaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/TestStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/代码块执行顺序/TestSuperSub2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/可变参数/Varable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/测试/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/Java基础/测试/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/数据结构/链表/链表环的问题/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/数据结构/链表/链表环的问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/测试/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题05从尾到头打印链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题05从尾到头打印链表/Main05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/Main06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题06重建二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题07用两个栈实现队列/Main07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题08旋转数组的最小数字/Main8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题10数值二进制表示中1的个数/Main10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题11数值的整数次方/Main11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题13在O1时间删除链表节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题13在O1时间删除链表节点/Main13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题14调整数组顺序使奇数位于偶数前面/Main14_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题15链表的倒数第K个节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题15链表的倒数第K个节点/Main15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题16翻转链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题16翻转链表/Main16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题17合并两个排序的链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题17合并两个排序的链表/Main17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题18树的子结构/Main18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题18树的子结构/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题19二叉树的镜像/Main19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题19二叉树的镜像/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题21包含min函数的栈/Main21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题22栈的压入弹出序列/Main22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/Main23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题23从上往下打印二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题24二叉搜索树的后序遍历序列/Main24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题25二叉树中和为某一值的路径/Main25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题25二叉树中和为某一值的路径/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/Main26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题26复杂链表的复制/RandomListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题27二叉搜索树与双向链表/Main27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题27二叉搜索树与双向链表/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题28字符串排列组合/Main28_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题29数组中出现次数超过一半的数字/Main29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题30最小的k个数/Main30$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题30最小的k个数/Main30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题31连续子数组的最大和/Main31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题32从1到N中1出现的次数/Main32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题33把数组排成最小的数/Main33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题34丑数/Main34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题35第一个只出现一次的字符/Main35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题37两个链表的第一个公共结点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题37两个链表的第一个公共结点/Main37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题38数字在排序数组中出现的次数/Main38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题39二叉树的深度/Main39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题39二叉树的深度/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题40数组中只出现一次的数字/Main40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题41和为S的两个数/Main41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题42翻转单词顺序和左旋字符串/Main42_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题44扑克牌的顺子/Main44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题51数组中重复的数字/Main51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题52构建乘积矩阵/Main52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题53正则表达式匹配/Main53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题54表示数值的字符串/Main54表示数值的字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题55字符流中第一个不重复的字符/Main55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题57删除链表中重复的节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题57删除链表中重复的节点/Main57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题58二叉树的下一个节点/Main58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题58二叉树的下一个节点/TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题59对称的二叉树/Main59.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题59对称的二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题60把二叉树打印成多行/Main60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题60把二叉树打印成多行/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/Main61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题61之字形打印二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/Main63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题63二叉搜索树的第K个节点/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/剑指Offer/面试题9斐波那契数列/Main9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/冒泡排序/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/堆排序/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/归并排序/MergeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/归并排序/MyMergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/快速排序/MyQuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/快速排序/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/排序/快速排序/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/生产者消费者模式/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/生产者消费者模式/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/生产者消费者模式/ProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/生产者消费者模式/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/生产者消费者模式/SynStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/今日头条/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/招行信用卡/Main03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/浪潮/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/浪潮/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第1题/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第2题/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第3题/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第3题/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第3题/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/算法/笔试题/百度/第3题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/com/dzx/基础/设计模式/双重校验锁/SingleTon.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/common.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/generatorConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/jdbc.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/mapping/GoodsMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/properties/common_web_ssm.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/classes/xmls/book.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-lang-2.6.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/core-2.2.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/httpclient-4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/httpcore-4.4.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-core-2.8.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-databind-2.8.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/javase-2.2.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
@@ -155,7 +401,17 @@
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/images/313681.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/images/42.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/web-ssm/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/js/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/jsp/loginbak.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/jsp/showGoods.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/jsp/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-ssm/jsp/test.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -176,7 +432,17 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_ssm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db_ssm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="db_ssm: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -184,20 +450,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="GoodsService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/GoodsService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsServiceImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoodsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="456">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="15" />
               <folding>
                 <element signature="e#559#560#0" expanded="true" />
                 <element signature="e#610#611#0" expanded="true" />
@@ -209,8 +466,17 @@
       <file leaf-file-name="GoodsMapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+            <state relative-caret-position="-2774">
+              <caret line="9" column="29" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generatorConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -218,8 +484,8 @@
       <file leaf-file-name="GoodsController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="608">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,10 +493,28 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="251" column="9" selection-start-line="251" selection-start-column="9" selection-end-line="251" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t_user" pinned="false" current-in-tab="false">
+        <entry file="das://3745c8b8-446b-48da-8a0c-6d88aadc107d/schema/db_ssm/table/t_user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="874">
               <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
             </state>
           </provider>
@@ -239,35 +523,22 @@
       <file leaf-file-name="GoodsMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8680">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="9766">
+              <caret line="257" column="11" selection-start-line="257" selection-start-column="11" selection-end-line="257" selection-end-column="11" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="342">
               <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Goods.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/Goods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/model/GoodsExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -288,7 +559,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>user</find>
       <find>userma</find>
       <find>mysql</find>
       <find>contextConfigLocation</find>
@@ -318,6 +588,7 @@
       <find>generatorCo</find>
       <find>`</find>
       <find>selectAll</find>
+      <find>commentGenerator</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -369,7 +640,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsp/test.html" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/currentLimiting/CurrentLimitingFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/login.js" />
@@ -380,6 +650,7 @@
         <option value="$PROJECT_DIR$/src/main/java/SQL/t_user.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -416,17 +687,6 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="web-ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="web-ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="web-ssm Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
@@ -468,138 +728,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dzx" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web-ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web-ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapping" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -611,7 +740,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="plugins.junitgenerator.application" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1094,7 +1223,10 @@
       <workItem from="1527036994403" duration="2627000" />
       <workItem from="1527063092429" duration="412000" />
       <workItem from="1527064629984" duration="648000" />
-      <workItem from="1527065713261" duration="1782000" />
+      <workItem from="1527065713261" duration="4517000" />
+      <workItem from="1527079104765" duration="3214000" />
+      <workItem from="1527131538215" duration="223000" />
+      <workItem from="1527131794671" duration="3121000" />
     </task>
     <task id="LOCAL-00001" summary="20180509">
       <created>1525840224852</created>
@@ -1152,7 +1284,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326794000" />
+    <option name="totallyTimeSpent" value="336087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1171,39 +1303,40 @@
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5021834" side_tool="true" weight="0.36614174" />
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4978166" weight="0.32677165" />
       <window_info anchor="right" id="Maven Projects" order="0" weight="0.32914847" />
-      <window_info anchor="right" id="CDI" order="2" weight="0.32969433" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.328084" />
+      <window_info anchor="right" id="CDI" order="2" weight="0.32969433" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info anchor="right" id="Database" order="1" weight="0.42085153" />
-      <window_info anchor="right" id="JSF" order="4" weight="0.32969433" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.24945416" />
+      <window_info anchor="right" id="JSF" order="4" weight="0.32969433" />
       <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" weight="0.496063" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" weight="0.26902887" />
       <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.20997375" />
-      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" weight="0.36614174" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.328084" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.17454068" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.43307087" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" visible="true" weight="0.55643046" />
       <window_info anchor="bottom" id="Spring" order="4" weight="0.42125985" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49563318" weight="0.328084" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" visible="true" weight="0.30676857" />
+      <window_info anchor="right" id="Jenkins" weight="0.32969433" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" weight="0.24672489" />
       <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info id="Web" order="4" sideWeight="0.5181269" side_tool="true" weight="0.31495634" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
-      <window_info id="Nl-Palette" order="6" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.5874674" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="16" sideWeight="0.49727073" weight="0.46850392" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
       <window_info anchor="right" id="Properties" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
+      <window_info id="Nl-Palette" order="6" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" weight="0.6614173" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
       <window_info anchor="right" id="Commander" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="8" />
     </layout>
@@ -1212,41 +1345,41 @@
       <window_info id="Designer" order="1" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.5874674" />
       <window_info anchor="right" id="Palette" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49563318" weight="0.39632547" />
       <window_info anchor="bottom" id="Spring" order="4" weight="0.42125985" />
       <window_info anchor="bottom" id="Database Console" order="16" sideWeight="0.49727073" weight="0.46850392" />
-      <window_info anchor="right" id="Commander" order="10" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49563318" visible="true" weight="0.17454068" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="11" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Properties" order="2" />
+      <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49563318" weight="0.328084" />
       <window_info id="Capture Tool" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="JSF" order="4" weight="0.32969433" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="6" sideWeight="0.5021834" side_tool="true" visible="true" weight="0.36614174" />
-      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" visible="true" weight="0.36614174" />
-      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.21100917" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5021834" side_tool="true" weight="0.36614174" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978166" weight="0.6614173" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.4989083" weight="0.20997375" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Commander" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.328084" />
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.328084" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.43307087" />
       <window_info id="Nl-Palette" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="0" weight="0.32914847" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" weight="0.3548035" />
-      <window_info anchor="right" id="Database" order="3" weight="0.42085153" />
+      <window_info anchor="right" id="Maven Projects" order="0" visible="true" weight="0.32914847" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.48187312" weight="0.24672489" />
+      <window_info anchor="right" id="Database" order="1" weight="0.42085153" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info id="Web" order="4" sideWeight="0.5181269" side_tool="true" weight="0.31495634" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.24945416" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="CDI" order="1" />
+      <window_info anchor="right" id="CDI" order="2" weight="0.32969433" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="9" weight="0.34275183" />
+      <window_info id="Favorites" order="5" sideWeight="0.5040276" side_tool="true" weight="0.22489083" />
       <window_info anchor="right" id="Bean Validation" order="7" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" weight="0.14698163" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49836245" weight="0.26902887" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1315,7 +1448,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/utils/BeanUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/test/com/dzx/基础/测试/CalculatorTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/test/com/dzx/ssm/service/impl/GoodsServiceImplTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/基础/测试/Calculator.java">
@@ -1415,13 +1547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://3745c8b8-446b-48da-8a0c-6d88aadc107d/schema/db_ssm/table/t_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3745c8b8-446b-48da-8a0c-6d88aadc107d/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1468,20 +1593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8550">
-          <caret line="225" column="13" selection-start-line="225" selection-end-line="226" />
         </state>
       </provider>
     </entry>
@@ -1587,22 +1698,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
+        <state relative-caret-position="342">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8680">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1613,31 +1710,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/GoodsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9766">
+          <caret line="257" column="11" selection-start-line="257" selection-start-column="11" selection-end-line="257" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3745c8b8-446b-48da-8a0c-6d88aadc107d/schema/db_ssm/table/t_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="608">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/service/impl/GoodsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="456">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="15" />
           <folding>
             <element signature="e#559#560#0" expanded="true" />
             <element signature="e#610#611#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dzx/ssm/dao/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2774">
+          <caret line="9" column="29" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="251" column="9" selection-start-line="251" selection-start-column="9" selection-end-line="251" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1734,6 +1869,7 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="clean" />
     <option value="clean package" />
   </component>
 </project>
