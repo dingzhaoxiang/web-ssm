@@ -1,14 +1,15 @@
 package com.dzx.ssm.service.impl;
 
 import com.dzx.ssm.utils.BeanUtil;
+import org.slf4j.event.EventConstants;
 
 import java.util.Date;
 
 
 public class TestService {
     public static void main(String[] args) {
-        Date date = BeanUtil.getBean("classpath:GetBeanTest.xml","date",Date.class);
-        System.out.println(date);
+        EventConstants eventConstants = new EventConstants();
+        eventConstants.test();
     }
 
 

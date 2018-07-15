@@ -13,4 +13,5 @@ public class BeanUtil {
         ApplicationContext ac = new FileSystemXmlApplicationContext("classpath:GetBeanTest.xml");
         return (T)ac.getBean(id);
     }
-}
+
+    }

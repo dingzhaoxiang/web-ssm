@@ -1,5 +1,8 @@
 package com.dzx.ssm.controller;
 
+import com.dzx.ssm.service.GoodsService;
+import com.dzx.ssm.service.LoginService;
+import com.dzx.ssm.service.UserService;
 import com.google.zxing.*;
 import com.google.zxing.EncodeHintType;
 import com.google.zxing.MultiFormatWriter;
@@ -12,8 +15,10 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Map;
@@ -26,12 +31,34 @@ import java.util.Map;
 @Controller
 @RequestMapping("/login")
 public class LoginController {
+
+    @Resource
+    LoginService loginService;
+
     @RequestMapping("userAuthen.do")
     @ResponseBody
     public Map<String,Object> userAuthen(HttpServletRequest request,HttpServletResponse response){
         String name = request.getParameter("name");
-        System.out.println(name);
+        String password = request.getParameter("password");
+        HttpSession session = request.getSession();
+        //把用户数据保存在session域对象中
+        session.setAttribute("name", name);
+        Map<String, Object> map = new HashMap<String, Object>();
+        if(loginService.isValid(name,password)) {
+                map.put("code", 200);
+                map.put("name", name);
+        }
+        else{
+            map.put("code",400);
+            map.put("name",name);
+        }
+        return map;
+    }
 
+    @RequestMapping("inputRecord.do")
+    @ResponseBody
+    public Map<String,Object> inputRecord(HttpServletRequest request,HttpServletResponse response){
+        String name = request.getParameter("name");
         Map<String,Object> map = new HashMap<String,Object>();
         map.put("code",200);
         map.put("name",name);
@@ -42,6 +69,7 @@ public class LoginController {
 //    public void deleteAllTempClob(){
 //        System.err.println("每5秒执行定时任务");
 //    }
+
     @RequestMapping("displayQRCode.do")
     public void displayQRCode(HttpServletRequest request,HttpServletResponse response){
         String text = "dingzhaoxiangdeerweima";

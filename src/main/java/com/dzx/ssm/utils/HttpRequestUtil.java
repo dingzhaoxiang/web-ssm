@@ -49,8 +49,10 @@ public class HttpRequestUtil {
 			}
 			System.out.println(url);
 		}
-		
+
 		HttpGet httpGet=new HttpGet(url);
+		HashMap<String, String> headers = new HashMap<String, String>();
+
 		HttpResponse response=client.execute(httpGet);
 		return response;
 	}
